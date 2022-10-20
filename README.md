@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Vaibhav!
+
+#### I am a 4th Year undergraduate from [Vishwakarma Institute of Technolofy, Pune.](https://www.vit.edu/) A Software Developer and a Android Application Development Enthusiast, who is obsessed with the idea of improving himself and wants a platform to grow and excel. 
+
+### [Connect with me 💬](https://www.linkedin.com/in/thisisvuk/) 
+
 
 <!--
 **thisisvuk/thisisvuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
