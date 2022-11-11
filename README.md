@@ -14,17 +14,10 @@
 # Connect with me<img src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/Handshake.gif" height="32px">
 <p align="left">
 <a href="https://linkedin.com/in/thisisvuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisisvuk" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hjhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hjhg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thisisvuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thisisvuk" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/thisisvuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thisisvuk" height="30" width="40" /></a>
 </p>
 
-| [<img src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/thisisvuk) 
-| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/thisisvuk) 
-| [<img src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/leetcode-.webp" alt="LeetCode Logo" width="30">](https://leetcode.com/thisisvuk/) 
-| [<img src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/gfg.png" alt="GFG Logo" width="30">](https://auth.geeksforgeeks.org/user/thisisvuk/) 
-| [<img src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thisisvuk1@gmail.com)
-|
 
 
 <!--
