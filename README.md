@@ -2,7 +2,7 @@
 
 Passionate Software Developer with expertise in Android (Java/Kotlin), React, HTML, CSS, and JavaScript. Building innovative projects across web and mobile platforms.  Always learning and seeking collaborations.
 
-👯 You can contact me at [sparate04@gmail.com][email]
+👯 You can contact me at [thisisvuk1@gmail.com][email]
 
 ## 🌐 Connect with me:
 
@@ -14,16 +14,16 @@ Passionate Software Developer with expertise in Android (Java/Kotlin), React, HT
 
 <img align="left" alt="Java" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/java.png?raw=true" />
 <img align="left" alt="Android" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/android.png?raw=true" />
-<img align="left" alt="React" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/icons8-react-160.png?raw=true" />
+<img align="left" alt="React" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/react.png?raw=true" />
 <img align="left" alt="HTML5" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/html5.png?raw=true" />
 <img align="left" alt="CSS3" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/css3.png?raw=true" />
 <img align="left" alt="JavaScript" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/javascript.png?raw=true" />
-<img align="left" alt="MySQL" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/icons8-mysql-logo-144.png?raw=true" />
+<img align="left" alt="MySQL" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/mysql.png?raw=true" />
 <img align="left" alt="Visual Studio Code" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/vscode.png?raw=true" />
-<img align="left" alt="Git" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/icons8-git-144.png?raw=true" />
-<img align="left" alt="GitHub" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/icons8-github-128.png?raw=true" />
+<img align="left" alt="Git" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/git.png?raw=true" />
+<img align="left" alt="GitHub" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/github.png?raw=true" />
 <img align="left" alt="C++" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/c++.png?raw=true" />
-<img align="left" alt="NPM" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/icons8-npm-144.png?raw=true" />
+<img align="left" alt="NPM" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/npm.png?raw=true" />
 <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
 # 📊 GitHub Stats:
