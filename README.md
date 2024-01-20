@@ -1,20 +1,38 @@
 # 💫 About Me:
-I'm a passionate Android Developer with a knack for building robust and user-friendly mobile applications. My journey in the world of mobile development started with a deep fascination for creating seamless user experiences. Over the years, I've honed my skills in Android app development and have contributed to several projects that have made a positive impact.<br><br><br>In addition to my Android expertise, I have a solid understanding of React.js, a JavaScript library for building user interfaces. I believe in the power of versatility and am always eager to explore new technologies to broaden my skill set. My experience with React.js has allowed me to bridge the gap between mobile and web development, creating cohesive experiences across platforms.
 
+Passionate Software Developer with expertise in Android (Java/Kotlin), React, HTML, CSS, and JavaScript. Building innovative projects across web and mobile platforms.  Always learning and seeking collaborations.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thisisvuk) 
+👯 You can contact me at [sparate04@gmail.com][email]
+
+## 🌐 Connect with me:
+
+[<img align="left" alt="thisisvuk | LinkedIn" width="30px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/linkedin.png?raw=true" />][linkedin]
+
+<br/>
 
 # 💻 Tech Stack:
-![Java](https://github.com/thisisvuk/thisisvuk/blob/main/Assets/android.png) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+
+<img align="left" alt="Java" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/java.png?raw=true" />
+<img align="left" alt="Android" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/android.png?raw=true" />
+<img align="left" alt="React" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/icons8-react-160.png?raw=true" />
+<img align="left" alt="HTML5" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/html5.png?raw=true" />
+<img align="left" alt="CSS3" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/css3.png?raw=true" />
+<img align="left" alt="JavaScript" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/javascript.png?raw=true" />
+<img align="left" alt="MySQL" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/icons8-mysql-logo-144.png?raw=true" />
+<img align="left" alt="Visual Studio Code" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/vscode.png?raw=true" />
+<img align="left" alt="Git" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/icons8-git-144.png?raw=true" />
+<img align="left" alt="GitHub" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/icons8-github-128.png?raw=true" />
+<img align="left" alt="C++" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/c++.png?raw=true" />
+<img align="left" alt="NPM" width="80px" src="https://github.com/thisisvuk/thisisvuk/blob/main/Assets/icons8-npm-144.png?raw=true" />
+<br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thisisvuk&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thisisvuk&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvuk&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/thisisvuk"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=thisisvuk&&show_icons=true&count_private=true&theme=github_dark"></a> &nbsp; <a href="https://github.com/thisisvuk"><img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisvuk&theme=algolia"/></a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thisisvuk&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<a href="https://github.com/thisisvuk"><img height="163px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvuk&layout=compact&theme=algolia"/></a> &nbsp; <a href="https://github.com/thisisvuk"><img height="163px" alt="Saurabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thisisvuk&custom_title=Saurabh's%20Contribution%20Graph%20(Last%2030%20Days)&theme=react-dark" /></a>
+
+[linkedin]: https://www.linkedin.com/in/thisisvuk/
+[email]: mailto:thisisvuk1@gmail.com
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
