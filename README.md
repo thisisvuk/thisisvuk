@@ -29,7 +29,8 @@ Passionate Software Developer with expertise in Android (Java/Kotlin), React, HT
 # 📊 GitHub Stats:
 <a href="https://github.com/thisisvuk"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=thisisvuk&&show_icons=true&count_private=true&theme=github_dark"></a> &nbsp; <a href="https://github.com/thisisvuk"><img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisvuk&theme=algolia"/></a>
 
-<a href="https://github.com/thisisvuk"><img height="163px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvuk&layout=compact&theme=algolia"/></a> &nbsp; 
+<a href="https://github.com/thisisvuk"><img height="163px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvuk&layout=compact&theme=algolia"/></a> 
+
 [linkedin]: https://www.linkedin.com/in/thisisvuk/
 [email]: mailto:thisisvuk1@gmail.com
 
