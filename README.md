@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Passionate Software Developer with expertise in Android (Java/Kotlin), React, HTML, CSS, and JavaScript. Building innovative projects across web and mobile platforms.  Always learning and seeking collaborations.
+Passionate Software Developer with expertise in Next.js, React, Android, HTML, CSS, and JavaScript. Building innovative projects across web and mobile platforms.  Always learning and seeking collaborations.
 
 👯 You can contact me at [thisisvuk1@gmail.com][email]
 
